@@ -1,0 +1,4087 @@
+[
+  {
+    "Name": "Italian Chicken Marinade",
+    "Description": "This Italian dressing chicken marinade is a super simple but delicious way to add flavor before grilling.",
+    "Price": 200,
+    "PictureUrl": "images/products/ItalianChickenMarinade.png",
+    "TypeId": 1,
+    "BrandId": 1
+  },
+  {
+    "Name": "Chicken Marsala",
+    "Description": "Chicken Marsala is an Italian-style recipe for tender pan-fried chicken breasts in a sweet Marsala wine and mushroom sauce. It's super quick and easy to make for a weeknight dinner AND sophisticated enough for company.",
+    "Price": 150,
+    "PictureUrl": "images/products/ChickenMarsala.png",
+    "TypeId": 1,
+    "BrandId": 1
+  },
+  {
+    "Name": "Hearty Vegetable Lasagna",
+    "Description": "This hearty, vegetable lasagna is the only lasagna my husband will eat. We love it! Hope you all enjoy it as much as we do.",
+    "Price": 180,
+    "PictureUrl": "images/products/HeartyVegetableLasagna.png",
+    "TypeId": 1,
+    "BrandId": 2
+  },
+  {
+    "Name": "Cheesy Vegetable Lasagna",
+    "Description": "A rich, cheesy lasagna loaded with vegetables. You could also omit all veggies except broccoli for a broccoli lasagna.",
+    "Price": 300,
+    "PictureUrl": "images/products/CheesyVegetableLasagna.png",
+    "TypeId": 1,
+    "BrandId": 2
+  },
+  {
+    "Name": "Pasta Salad",
+    "Description": "This pasta salad recipe was given to me by a dear friend many years ago, and I've been making it ever since! It's great for barbecues.",
+    "Price": 250,
+    "PictureUrl": "images/products/PastaSalad.png",
+    "TypeId": 1,
+    "BrandId": 4
+  },
+  {
+    "Name": "Italian Wedding Soup",
+    "Description": "This lovely Italian wedding soup recipe combines flavorful meatballs with sliced escarole, orzo pasta, and finely chopped carrot. Serve hot, garnished with fresh parsley and extra Parmesan cheese.",
+    "Price": 120,
+    "PictureUrl": "images/products/ItalianWeddingSoup.png",
+    "TypeId": 1,
+    "BrandId": 5
+  },
+  {
+    "Name": "Vegetarian Refried Beans",
+    "Description": "Traditional vegetarian and vegan refried beans that taste great with hardly any fat!",
+    "Price": 10,
+    "PictureUrl": "images/products/VegetarianRefriedBeans.png",
+    "TypeId": 2,
+    "BrandId": 2
+  },
+  {
+    "Name": "Sweet and Spicy Sausage and Pepper Pasta",
+    "Description": "This is a fabulous meal prep recipe, and the tomatoes and peppers lend a natural sweetness to juxtapose the spicy sauce and sausage.",
+    "Price": 8,
+    "PictureUrl": "images/products/PepperPasta.png",
+    "TypeId": 2,
+    "BrandId": 4
+  },
+  {
+    "Name": "Creamy Gochujang Tortellini",
+    "Description": "The popular miso pasta gets a spicy, yet savory addition of gochujang sauce. Certainly food fusion, and ultimately comfort food!",
+    "Price": 15,
+    "PictureUrl": "images/products/CreamyGochujangTortellini.png",
+    "TypeId": 2,
+    "BrandId": 4
+  },
+  {
+    "Name": "Shrimp Egg Foo Young",
+    "Description": "This egg foo young recipe includes a delicious sauce to put on top of the patties. This is a very special recipe acquired when I worked at a Chinese restaurant to pay for my red 1966 VW bug when in high school! The recipe card is tattered and spotted now, but the dish is the best egg foo young I have ever had. To serve, place egg patty over steamed rice and put the sauce on top.",
+    "Price": 18,
+    "PictureUrl": "images/products/ShrimpEggFooYoung.png",
+    "TypeId": 4,
+    "BrandId": 3
+  },
+  {
+    "Name": "Congee",
+    "Description": "Congee, a Chinese rice porridge, will make any cold winter's day warm and welcoming. This recipe, also known as 'jook', was inspired by my Grandmother's frequent preparation of this dish. You will enjoy congee's unique velvety and savory taste.",
+    "Price": 15,
+    "PictureUrl": "images/products/Congee.png",
+    "TypeId": 4,
+    "BrandId": 3
+  },
+  {
+    "Name": "Haluski - Cabbage and Noodles",
+    "Description": "This haluski recipe is made with buttery egg noodles, fried cabbage, and onions. It's a great, flavorful dish!",
+    "Price": 16,
+    "PictureUrl": "images/products/HaluskiNoodles.png",
+    "TypeId": 4,
+    "BrandId": 4
+  },
+  {
+    "Name": "Chicken Teriyaki and Noodles",
+    "Description": "Ditch the take out with this quick chicken teriyaki and noodle dish made with homemade teriyaki sauce!",
+    "Price": 14,
+    "PictureUrl": "images/products/ChickenTeriyakiNoodles.png",
+    "TypeId": 4,
+    "BrandId": 4
+  },
+  {
+    "Name": "Kulfi",
+    "Description": "This is a simple but delicious recipe for Kulfi (Indian Ice Cream) that I got from my sister-in-law. I have made this several times, and it always gets rave reviews - even the kids love it! For extra flavor, you could add a few drops of rose water or ground pistachios.",
+    "Price": 250,
+    "PictureUrl": "images/products/Kulfi.png",
+    "TypeId": 3,
+    "BrandId": 6
+  },
+  {
+    "Name": "Crispy Vegetable Pakoras",
+    "Description": "These vegetable pakoras are delicious. You'll love this recipe if you've ever had Japanese tempura-coated veggies. These pakoras are similar, but the spiced batter gives them a unique taste. Serve with chili sauce, mint yogurt sauce, or sweet and sour sauce. Try this recipe with other vegetables, such as sweet potatoes, broccoli, and asparagus.",
+    "Price": 189.99,
+    "PictureUrl": "images/products/CrispyVegetablePakoras.png",
+    "TypeId": 3,
+    "BrandId": 2
+  },
+  {
+    "Name": "Vegetarian Korma",
+    "Description": "This vegetable korma recipe is an easy vegetarian curry. It's rich, creamy, mildly spiced, and extremely flavorful. Serve with naan and rice.",
+    "Price": 199.99,
+    "PictureUrl": "images/products/VegetarianKorma.png",
+    "TypeId": 3,
+    "BrandId": 2
+  },
+  {
+    "Name": "Tandoori Chicken",
+    "Description": "Try this authentic tandoori chicken that's marinated in yogurt and spices, then cooked on the grill instead of a clay oven so you can make it at home. Serve with long-grain basmati rice, grilled veggies, roasted corn on the cob, and a cucumber salad.",
+    "Price": 150,
+    "PictureUrl": "images/products/TandooriChicken.png",
+    "TypeId": 3,
+    "BrandId": 1
+  },
+  {
+    "Name": "Indian Chicken Tikka Masala",
+    "Description": "This Indian chicken tikka masala is an easy but flavorful version of everyone's favorite mild-medium curry! Serve with naan bread and mango chutney. Garnish with additional cilantro leaves.",
+    "Price": 180,
+    "PictureUrl": "images/products/ChickenTikkaMasala.png",
+    "TypeId": 3,
+    "BrandId": 1
+  },
+  {
+    "Name": "Olive Oil Extra \"ALAHLAM\"",
+    "Description": "5000ml*2",
+    "Price": 106,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Olive Oil Extra Ahlam \"Gara",
+    "Description": "1000ml*12",
+    "Price": 128,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Olive Oil Extra Ahlam \"Gara",
+    "Description": "500*12",
+    "Price": 68,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Olive Oil Extra Ahlam \"Gara\"",
+    "Description": "2000ml*8",
+    "Price": 170,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Artichokes \"Ahlam\"",
+    "Description": "1500g*4",
+    "Price": 24,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Artichokes \"Ahlam\"",
+    "Description": "600g*12",
+    "Price": 41.75,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Eggplants \"Makdus \"Alahlam",
+    "Description": "2700g*4",
+    "Price": 57.25,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Artichokes \"Ahlam\"",
+    "Description": "1250g*6",
+    "Price": 41.5,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Cucumbers \"Ahlam Zahra\"",
+    "Description": "250g*12",
+    "Price": 11.5,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Cucumbers \"Ahlam Zahra\"",
+    "Description": "450g*12",
+    "Price": 13.25,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Cucumbers \"Ahlam Zahra\"",
+    "Description": "2000g*4",
+    "Price": 15.5,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Cucumbers \"Ahlam Zahra\"",
+    "Description": "900g*6",
+    "Price": 10.75,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Green Olives Stuffed with Carrots",
+    "Description": "7kg",
+    "Price": 25,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Green Olives Stuffed with Thyme",
+    "Description": "7kg",
+    "Price": 32.5,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Olives \"Halabi\"",
+    "Description": "2750g*4",
+    "Price": 24,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Olives \"Halabi\"",
+    "Description": "900g*6",
+    "Price": 18.5,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Olives \"Halabi\"",
+    "Description": "500g*12",
+    "Price": 19.5,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Olives \"Kalamata\"",
+    "Description": "450g*12",
+    "Price": 19,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Olives \"Kalamata\"",
+    "Description": "900g*6",
+    "Price": 17,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Mixed Olive Salad \"AlAhlam\"",
+    "Description": "10kg",
+    "Price": 38,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Mixed Olive Salad \" AlAhlam\"",
+    "Description": "1000g*6",
+    "Price": 20.5,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Olives \"Salqini \" \"Ahlam\"",
+    "Description": "500g*12",
+    "Price": 23.5,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Olives \"Salqini \" \"Ahlam\"",
+    "Description": "10kg",
+    "Price": 39,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Olives \"Salqini \" \"Ahlam\"",
+    "Description": "2750g*4",
+    "Price": 29.75,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Olives \"Salqini \" \"Ahlam\"",
+    "Description": "900g*6",
+    "Price": 20,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Turnips",
+    "Description": "900g*6",
+    "Price": 9.4,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "\"Lefet\" AhlamLa",
+    "Description": "450g*12",
+    "Price": 11,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Turnips \"Lefet\" Ahlam",
+    "Description": "2000g*4",
+    "Price": 13,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Figs \"Ahlam\"",
+    "Description": "250g*12",
+    "Price": 9.5,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Figs \"Ahlam\"",
+    "Description": "500g*12",
+    "Price": 14.25,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Wild Cucumbers \"Ahlam\"",
+    "Description": "2000g*4",
+    "Price": 18.25,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Wild Cucumbers \"Ahlam\"",
+    "Description": "900g*6",
+    "Price": 12.25,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Grape Leaves",
+    "Description": "1300g*4",
+    "Price": 22.25,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Grape Leaves",
+    "Description": "450g*6",
+    "Price": 15,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pickled Grape Leaves",
+    "Description": "700g*6",
+    "Price": 19.5,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Halabi Grilled Green Olives ",
+    "Description": "10kg*1",
+    "Price": 44,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Halabi Grilled Green Olives ",
+    "Description": "1125g*6",
+    "Price": 29.75,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Dried Molokhia",
+    "Description": "200*12",
+    "Price": 20.5,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Dried Molokhia",
+    "Description": "400g*6",
+    "Price": 18.9,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Sliced Olives",
+    "Description": "400g*12",
+    "Price": 26.5,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Sliced Olives",
+    "Description": "7kg*1",
+    "Price": 24.75,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Hot Paprika Paste (Pepper Dip)",
+    "Description": "10kg*1",
+    "Price": 27.5,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Hot Paprika Paste (Pepper Dip)",
+    "Description": "1250g*6",
+    "Price": 19.5,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Hot Paprika Paste (Pepper Dip)",
+    "Description": "660g*12",
+    "Price": 21,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Hot Paprika Pepper",
+    "Description": "10kg*1",
+    "Price": 31.5,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Hot Paprika Pepper",
+    "Description": "1250g*6",
+    "Price": 22.5,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Hot Paprika Pepper",
+    "Description": "660g*12",
+    "Price": 24,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Qamar El Din Apricot Paste",
+    "Description": "400g*20",
+    "Price": 34,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Stuffed Grapes Leaves \"Yalenji\"",
+    "Description": "400g*12",
+    "Price": 18.75,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Stuffed Grapes Leaves \"Yalenji\"",
+    "Description": "2000g*6",
+    "Price": 33.5,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Dry Tamarind",
+    "Description": "400g*20",
+    "Price": 22,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Dry Tamarind",
+    "Description": "500g*40",
+    "Price": 50,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Tomato Paste \"AlAhlam\"",
+    "Description": "800g*12",
+    "Price": 15,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Tomato Paste \"AlAhlam\"",
+    "Description": "400g*12",
+    "Price": 25,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Tomato Paste \"AlAhlam\"",
+    "Description": "660g*12",
+    "Price": 12.5,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pomegranate Debis (Pomegranate Molasses) AlAhlam",
+    "Description": "5kg*4",
+    "Price": 48,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pomegranate Debis (Pomegranate Molasses) AlAhlam",
+    "Description": "1000g*12",
+    "Price": 36,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Pomegranate Debis (Pomegranate Molasses) AlAhlam",
+    "Description": "500ml*12",
+    "Price": 26,
+    "TypeId": 5,
+    "BrandId": 1
+  },
+  {
+    "Name": "Chtoura Molokhia",
+    "Description": "600g*6",
+    "Price": 24,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Chtoura Molokhia",
+    "Description": "200g*12",
+    "Price": 24,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Extra Sesame Tahini",
+    "Description": "400g*12",
+    "Price": 31,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Extra Sesame Tahini",
+    "Description": "800g*12",
+    "Price": 54,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Sesame Paste Tahini",
+    "Description": "18kg",
+    "Price": 84,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "VermicelliChtoura ",
+    "Description": "500g*15",
+    "Price": 8.5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Green Okra",
+    "Description": "840g12",
+    "Price": 32,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Baba Ghanouj Chtoura",
+    "Description": "185g*24",
+    "Price": 20,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Baba Ghanouj Chtoura",
+    "Description": "850g*12",
+    "Price": 31.5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Baba Ghanouj Chtoura",
+    "Description": "370g24",
+    "Price": 30,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Dark Red Kidney Beans - Chtoura",
+    "Description": "24g*12",
+    "Price": 15,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Hummus Tahina - Chtoura",
+    "Description": "850g*12",
+    "Price": 15.25,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Hummus Tahina - Chtoura",
+    "Description": "185g*24",
+    "Price": 12.25,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Hummus Tahina - Chtoura",
+    "Description": "430g*24",
+    "Price": 15.25,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Chickpeas – Chtoura",
+    "Description": "850g*12",
+    "Price": 16,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Chickpeas – Chtoura",
+    "Description": "400g*24",
+    "Price": 16,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Tomato Paste – Chtoura ",
+    "Description": "800g*12",
+    "Price": 21.25,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Tomato Paste – Chtoura ",
+    "Description": "1000g*6",
+    "Price": 14,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Broad Beans – Bagilla Chtoura ",
+    "Description": "850g*12",
+    "Price": 21.25,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Beans with the Lebanese Mixture – Chtoura ",
+    "Description": "400g*24",
+    "Price": 16,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Fava Beans – Chtoura",
+    "Description": "475g*24",
+    "Price": 13,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Halabi Fava Beans - Chtoura ",
+    "Description": "400g*24",
+    "Price": 14.5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Fava beans with hot pepper - Chtoura",
+    "Description": "400g*24",
+    "Price": 13.25,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Fava beans with cumin – Chtoura",
+    "Description": "400g*24",
+    "Price": 13.25,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Egyptian Fava Beans – Chtoura ",
+    "Description": "400g*24",
+    "Price": 13.25,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Saudi Fava Beans- Chtoura ",
+    "Description": "400g*24",
+    "Price": 13.25,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Kurdish Fava Beans - Chtoura",
+    "Description": "400g*24",
+    "Price": 13.25,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Lebanese Fava Beans – Chtoura ",
+    "Description": "400g*24",
+    "Price": 13.25,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Palestinian Fava Beans Chtoura",
+    "Description": "400g*24",
+    "Price": 13.25,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Syrian Fava Beans- Chtoura",
+    "Description": "400g*24",
+    "Price": 13.25,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Fava Beans Chickpeas",
+    "Description": "400g*24",
+    "Price": 13.25,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Fava Beans",
+    "Description": "600*12",
+    "Price": 11,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Cooked Chickpeas",
+    "Description": "800g*12",
+    "Price": 13.25,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Cooked Chickpeas",
+    "Description": "400g*24",
+    "Price": 14.5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Olive Oil – Chtoura",
+    "Description": "1000ml*12",
+    "Price": 110,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Olive Oil – Chtoura",
+    "Description": "500ml*12",
+    "Price": 62,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Olive Oil – Chtoura",
+    "Description": "500ml*12",
+    "Price": 180,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Olive Oil – Chtoura",
+    "Description": "1750g*6",
+    "Price": 96,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "\tFine Brown Bulgur",
+    "Description": "4,5kg*4",
+    "Price": 17,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Fine Light Bulgur",
+    "Description": "800g*15",
+    "Price": 18,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Fine Brown Bulgur",
+    "Description": "800g*15",
+    "Price": 14,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Bulgur-Coarse Brown",
+    "Description": "800g*15",
+    "Price": 14,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Bulgur-Coarse Light",
+    "Description": "800g*15",
+    "Price": 17,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Bulgur-Coarse Light ",
+    "Description": "800g*15",
+    "Price": 16.5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Fine Bulgur",
+    "Description": "4,5kg*4",
+    "Price": 22,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Coarse Bulgur",
+    "Description": "4,5kg*4",
+    "Price": 22,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Broad Beans",
+    "Description": "800g*12",
+    "Price": 18,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "High Quality Egyptian Rice",
+    "Description": "10kg*1",
+    "Price": 18.5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "High Quality Egyptian Rice",
+    "Description": "5kg*4",
+    "Price": 36,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Fine Snobaria White Kidney Beans ",
+    "Description": "800g*15",
+    "Price": 28,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Fine Beans",
+    "Description": "800g*15",
+    "Price": 17,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Freekeh",
+    "Description": "800g*15",
+    "Price": 37.75,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Peeled Beans",
+    "Description": "800g*15",
+    "Price": 17.75,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Peeled Lentils",
+    "Description": "800g*15",
+    "Price": 20.5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Peeled Lentils",
+    "Description": "4,5kg*4",
+    "Price": 29.5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Peeled Lentils",
+    "Description": "4,5kg*4",
+    "Price": 23,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Brown Lentils",
+    "Description": "800g*15",
+    "Price": 19,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Green Lentils",
+    "Description": "4,5kg*4",
+    "Price": 35.5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Green Lentils",
+    "Description": "800g*15",
+    "Price": 33,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Moroccan Pasta",
+    "Description": "800g*15",
+    "Price": 20.5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Yellow Corn",
+    "Description": "800g*15",
+    "Price": 20.5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Fine Semolina",
+    "Description": "900g*12",
+    "Price": 16.75,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Coarse Semolina",
+    "Description": "900g*12",
+    "Price": 16.75,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Light Semolina Tormos - Fine Semolina",
+    "Description": "800g*15",
+    "Price": 25,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Peeled Wheat",
+    "Description": "800g*15",
+    "Price": 12.25,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Wheat Trains",
+    "Description": "800g*15",
+    "Price": 12.5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Chtoura Turmeric",
+    "Description": "1kg*1",
+    "Price": 6.5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Ground Black Pepper",
+    "Description": "1kg*1",
+    "Price": 14,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Falafel Mix Powder",
+    "Description": "375g*12",
+    "Price": 21,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Coarse Cumin",
+    "Description": "500kg*14",
+    "Price": 85,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Falafel Spices",
+    "Description": "1kg*1",
+    "Price": 8.5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Ground Sumac.",
+    "Description": "1kg*1",
+    "Price": 10.5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Kabsa",
+    "Description": "1kg*1",
+    "Price": 9,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Ground Coriander",
+    "Description": "1kg*1",
+    "Price": 4.5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Sumac Spices",
+    "Description": "50g*24",
+    "Price": 48.5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Shawarma Meat Spices",
+    "Description": "1kg*1",
+    "Price": 9.35,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Seven Spices",
+    "Description": "1kg*1",
+    "Price": 9.35,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Ground Cumin",
+    "Description": "1kg*1",
+    "Price": 11,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Coarse Coriander",
+    "Description": "500g*14",
+    "Price": 17,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Citric Acid",
+    "Description": "5kg*1",
+    "Price": 10,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Mint",
+    "Description": "300g*12",
+    "Price": 23.35,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Camilla Tea",
+    "Description": "100g\"12",
+    "Price": 19,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Hibiscus Tea",
+    "Description": "100g*30",
+    "Price": 23,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Melissa Tea",
+    "Description": "100g*24",
+    "Price": 30,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Miramia Tea",
+    "Description": "100g*20",
+    "Price": 36.5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Light Crispy Chicken",
+    "Description": "500g*10",
+    "Price": 21,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Spicy Crispy Chicken ",
+    "Description": "500g*10",
+    "Price": 21,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Zhoratochrok Cassia",
+    "Description": "100g*30",
+    "Price": 28,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Zhoratsalamaki Senna",
+    "Description": "100g*30",
+    "Price": 28,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Whole Cinnamon Stick",
+    "Description": "30,100g",
+    "Price": 26003,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Cinnamon Stick",
+    "Description": "100g*30",
+    "Price": 20,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Starch",
+    "Description": "12,200g",
+    "Price": 8.5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Herbal Tea Flowers",
+    "Description": "100g*36",
+    "Price": 25,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Ginger",
+    "Description": "50g*10",
+    "Price": 6.5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Ground Nuts",
+    "Description": "20g*10",
+    "Price": 15,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Ground Cloves",
+    "Description": "20g*10",
+    "Price": 14,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Ground Black Pepper",
+    "Description": "50g*10 ",
+    "Price": 7,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Beef Shawarma Spices",
+    "Description": "50g*10",
+    "Price": 7.5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Ground Coriander",
+    "Description": "50g*10",
+    "Price": 5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Mint Spice",
+    "Description": "20g*10",
+    "Price": 5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Turmeric Yellow Coriander",
+    "Description": "50g*10",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Hot Ground Red Pepper Spice",
+    "Description": "50g*10",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Roasted Sesame",
+    "Description": "50g*10",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "White Sesame",
+    "Description": "50g*10",
+    "Price": 5.5,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Ground Starch",
+    "Description": "50g*10",
+    "Price": 4,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Ground Cinnamon",
+    "Description": "50g*12",
+    "Price": 6.25,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Ground Cumin",
+    "Description": "50g*10",
+    "Price": 7.75,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Fig Jam",
+    "Description": "454g*12",
+    "Price": 28,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Fig Jam",
+    "Description": "12,800g",
+    "Price": 48,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Pomegranate Juice Jar",
+    "Description": "500g*12",
+    "Price": 26,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Pomegranate Drink Plastic",
+    "Description": "70g*12",
+    "Price": 32,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Orange Blossom Water",
+    "Description": "500ml*12",
+    "Price": 13.25,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Orange Blossom Water",
+    "Description": "250ml*24",
+    "Price": 25.13,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Rose Water",
+    "Description": "500ml*12",
+    "Price": 13,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Rose Water",
+    "Description": "250ml*24",
+    "Price": 13,
+    "TypeId": 5,
+    "BrandId": 2
+  },
+  {
+    "Name": "Tahina Extra Sesame Paste \"Durra\"",
+    "Description": "18kg",
+    "Price": 80,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Thick Foul Bajela \"Durra\"",
+    "Description": "12*800g",
+    "Price": 14.25,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Thick Foul Bajela \"Durra\"",
+    "Description": "24*400g",
+    "Price": 15.25,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Durra Baba Ghanouj \"Eggplant Paste\"",
+    "Description": "24*370g",
+    "Price": 27.25,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Durra Foul Medammas \"Fava Beans\"",
+    "Description": "24*400g",
+    "Price": 12,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Durra Foul Modammes \"Fava Beans\" Free",
+    "Description": "24*400-75g",
+    "Price": 10,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Homos Tahina \"Durra\"",
+    "Description": "24*370g",
+    "Price": 16,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Homos Tahina Special \"Durra\"",
+    "Description": "48*220g",
+    "Price": 32,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Chickpeas Cooked \"Durra\"",
+    "Description": "12*800g",
+    "Price": 13.25,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Chickpeas Cooked \"Durra\" 24*400g",
+    "Description": "24*400g",
+    "Price": 13,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Durra Tuna Light With Oil \"Spicy\/Hot\"",
+    "Description": "48*160g",
+    "Price": 52,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Durra Tuna Light With Oil \"Mild\"",
+    "Description": "48*160g",
+    "Price": 52,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Bamia Dry \"Durra\"",
+    "Description": "12*150g",
+    "Price": 84.5,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Citric Acid \"Durra\" Citric Acid Liquid",
+    "Description": "12*1000ml",
+    "Price": 11.25,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Corn Flour Nascha \"Durra\"",
+    "Description": "12*350g",
+    "Price": 14.5,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Corn Flour Nascha \"Durra\"",
+    "Description": "12*500g",
+    "Price": 16.75,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Custard Vanilla \"Durra\"",
+    "Description": "12,160g",
+    "Price": 14,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Date Syrup \"Durra\"",
+    "Description": "12*425g",
+    "Price": 19.25,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Dibis Fleifle \" Durra\" Crushed Red Pepper",
+    "Description": "12*650g",
+    "Price": 17,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Pickled Eggplant (Makdus ) \" Durra",
+    "Description": "12*600g",
+    "Price": 50,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Pickled Eggplant (Makdus ) \" Durra",
+    "Description": "4*2750g",
+    "Price": 58,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Pickled Eggplant (Makdus ) \" Durra",
+    "Description": "4*2750g",
+    "Price": 48,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Pickled Egyptian Green Olives \" Durra \"",
+    "Description": "12*720g",
+    "Price": 20.56,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Pickled Egyptian Green Olives \" Durra \"",
+    "Description": "4*2900g",
+    "Price": 18.7,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Pickled Egyptian Green Olives \" Durra \"",
+    "Description": "6*1400g",
+    "Price": 20.56,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Pickled Green Olives Salkini \" Dura\"",
+    "Description": "12*650g",
+    "Price": 20.56,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Pickled Green Olives Salkini\" Durra \"",
+    "Description": "4*2900g",
+    "Price": 30,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Pickled Green Olives Salkini\" Durra\"",
+    "Description": "6*1300g",
+    "Price": 24,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Pickled Cucumbers \" Durra\"",
+    "Description": "12*720g",
+    "Price": 16,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Pickled Cucumbers \" Durra\"",
+    "Description": "4*2750g",
+    "Price": 15,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Pickled Cucumbers \" Durra\"",
+    "Description": "6*1400g",
+    "Price": 16,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Pickled Mixed Pickeled \"Durra\"",
+    "Description": "12*720g",
+    "Price": 11,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Pickled Mixed Pickeled \"Durra\"",
+    "Description": "6*1250g",
+    "Price": 11,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Pickled Mixed Pickeled \"Durra\"",
+    "Description": "4*2750g",
+    "Price": 11,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Pickled Pickled Pepper \"Durra\"",
+    "Description": "4*2500g",
+    "Price": 18,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Pickled White Beet \" Durra \"",
+    "Description": "12*710g",
+    "Price": 10,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Pickled White Beet \" Durra \"",
+    "Description": "4*2750g",
+    "Price": 12.25,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Pickled White Beet \" Durra \"",
+    "Description": "6*1400g",
+    "Price": 11,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Apple Vinegar Citric Acid \" Durra",
+    "Description": "12*500ml",
+    "Price": 15,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "White Vinegar Citric Acid \" Durra",
+    "Description": "12*750ml",
+    "Price": 10.75,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Falafel Dura with Falafel Spoon Special Offer 400",
+    "Description": "24*400g",
+    "Price": 25.5,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Falafel Mix \" Durra \"",
+    "Description": "24*175g",
+    "Price": 19,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Filini Sheiria \" Durra \"",
+    "Description": "30*300g",
+    "Price": 17,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Foul \"Durra\" Various Types",
+    "Description": "24*400g",
+    "Price": 12,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Freika Green Wheat \"Durra\"",
+    "Description": "12*450g",
+    "Price": 22,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Dried Eggplant \" Durra\"",
+    "Description": "12*50g",
+    "Price": 30.25,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Halawa Dura",
+    "Description": "12*350g",
+    "Price": 23.75,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Halawa Dura",
+    "Description": "12*700g",
+    "Price": 36,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Halawa Pistachios \" Durra \"",
+    "Description": "12*350g",
+    "Price": 24.5,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Halawa Pistachios \" Durra \"",
+    "Description": "12*700g",
+    "Price": 44,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Halawa Pistachios Extra \" Durra \"",
+    "Description": "12*350g",
+    "Price": 33.75,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Halawa Pistachios Extra \" Durra",
+    "Description": "12*700g",
+    "Price": 48.5,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Halawa Pistachios Special \" Durra",
+    "Description": "12*500g",
+    "Price": 33.5,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Hot Sauce \" Durra \"",
+    "Description": "24*175ml",
+    "Price": 11,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Hot Sauce \" Durra \"",
+    "Description": "36*100ml",
+    "Price": 11,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Kaak Bread Sticks Dura",
+    "Description": "12*454g",
+    "Price": 25.5,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Keschk Shami \" Durra \"",
+    "Description": "12*500g",
+    "Price": 51.00,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Ketchup \" Durra \"",
+    "Description": "12*410g-500g",
+    "Price": 10.75,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Ketchup Mustard BBQ \" Durra",
+    "Description": "12*425g",
+    "Price": 11.5,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Lome Black Black \" Durra",
+    "Description": "12*100g",
+    "Price": 13.5,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Lome Yellow Light \"Durra \"",
+    "Description": "12*100g",
+    "Price": 14.25,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Apricot Jam (Apricot) \" Durra",
+    "Description": "12*430g",
+    "Price": 17.75,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Apricot Jam (Apricot) \" Durra",
+    "Description": "12*875g",
+    "Price": 35,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Apricot jam (Apricot) \"Durra\"",
+    "Description": "6*2000g",
+    "Price": 30.25,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Strawberry jam (Strawberry) \"Durra\"",
+    "Description": "12*430g",
+    "Price": 19.75,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Strawberry jam (Strawberry) \"Durra\"",
+    "Description": "6*2000g",
+    "Price": 34.75,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Fig jam (Tin) \"Durra\"",
+    "Description": "12,430g",
+    "Price": 19.75,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Fig jam (Tin) \"Durra\" 12*430",
+    "Description": "12*430g",
+    "Price": 34.75,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Fig jam with nuts (Tin) \"Durra\"",
+    "Description": "12*430g",
+    "Price": 21.5,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Cherry jam (Cherry) \"Durra\"",
+    "Description": "12*430g",
+    "Price": 21.50,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Rose jam (Ward) \"Durra\"",
+    "Description": "12*430g",
+    "Price": 21.5,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Dry Moloukia \"Dura\"",
+    "Description": "12*200g",
+    "Price": 24,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Dry Moloukia \"Dura\"",
+    "Description": "6*400g",
+    "Price": 24,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Najaf pickles Amba \"Durra\"",
+    "Description": "12*600g",
+    "Price": 17,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Najaf pickles Amba \"Durra\"",
+    "Description": "4*2800g",
+    "Price": 20.25,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Najaf pickles Amba \"Durra\"",
+    "Description": "6*1300g",
+    "Price": 16.75,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Najaf pickles Iraqi Medabas \"Durra\"",
+    "Description": "4*2800g",
+    "Price": 25,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Tahina sesame paste \"Durra\"",
+    "Description": "12*400g",
+    "Price": 28.75,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Tahina sesame paste \"Durra\"",
+    "Description": "12*800g",
+    "Price": 49.75,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Tomato brand \"Durra\"",
+    "Description": "24*400g",
+    "Price": 21,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Tomato brand \"Durra\"",
+    "Description": "12*800g",
+    "Price": 18.75,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Tomato brand \"Durra\" glass",
+    "Description": "12*650g",
+    "Price": 16.25,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Tomato brand \"Durra\"",
+    "Description": "4*4400g",
+    "Price": 27.5,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Grape leaves stuffed with rice \"Durra\"",
+    "Description": "24*400g",
+    "Price": 39.25,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Grape leaves stuffed with rice \"Durra\"",
+    "Description": "6*1900g",
+    "Price": 35.75,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Green zaatar \"Dura\"",
+    "Description": "12*400g",
+    "Price": 25.6,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Red zaatar \"Dura\"",
+    "Description": "12*400g",
+    "Price": 25.75,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Jallab Syrup \"Durra\"",
+    "Description": "12*600ml",
+    "Price": 34,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Orange blossom water \"Durra",
+    "Description": "12*250ml",
+    "Price": 10.3,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Orange blossom water \"Durra\"",
+    "Description": "12*500ml",
+    "Price": 15,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Tamarind Syrup “Durra”",
+    "Description": "12*500ml",
+    "Price": 24.3,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Does Syrup \"Durra\"",
+    "Description": "12*600ml",
+    "Price": 31,
+    "TypeId": 5,
+    "BrandId": 3
+  },
+  {
+    "Name": "Katakit Romba",
+    "Description": "6*6*54g",
+    "Price": 10.38,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit Chocolate - Choco Twist Cocoa",
+    "Description": "6*24*22g",
+    "Price": 19,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit Dance Chocolate",
+    "Description": "6*24*35g",
+    "Price": 21,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit Chocolate - Dance Double Shoko",
+    "Description": "6*24*35g",
+    "Price": 21,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit Dance Milk",
+    "Description": "6*24*35g",
+    "Price": 21,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit Delikit Cocoa",
+    "Description": "12*12*40g",
+    "Price": 35,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit Delikit Dark",
+    "Description": "12*12*40g",
+    "Price": 36,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit Delikit Milk",
+    "Description": "12*12*40g",
+    "Price": 35,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit Delikit Hazelnut",
+    "Description": "12*12*40g",
+    "Price": 30,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit Delikit Mini",
+    "Description": "6*180g",
+    "Price": 13,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit Biscuits with Dates",
+    "Description": "6*24*20g",
+    "Price": 19,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit La Vita Cocoa",
+    "Description": "12*24*22g",
+    "Price": 34,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit La Vita Milk",
+    "Description": "12*24*22g",
+    "Price": 34,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit La Vita Strawberry",
+    "Description": "12*24*22g",
+    "Price": 32,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit Romba",
+    "Description": "6*24*30g",
+    "Price": 26,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit Ruby Extra Cocoa \"Blue\"",
+    "Description": "12*24*21g",
+    "Price": 33,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit Ruby Extra Hazelnut \"Brown\"",
+    "Description": "12*24*21g",
+    "Price": 33,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit Ruby Chocolate Jumbo Extra",
+    "Description": "12*12*23g",
+    "Price": 22,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit Ruby Jumbo Dark",
+    "Description": "12*12*23g",
+    "Price": 22,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit Ruby Jumbo Hazelnut Extra",
+    "Description": "12*12*23g",
+    "Price": 22,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit Twist Chocolate \"Cream Biscuit\"",
+    "Description": "6*24*27g",
+    "Price": 21.5,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit Twist Dark \"Cream Biscuit\"",
+    "Description": "12*12*24g",
+    "Price": 20,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit Twist Milk \"Cream Biscuit\"",
+    "Description": "6*24*27g",
+    "Price": 22.5,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Katakit Molto Cocoa",
+    "Description": "6*12*50g",
+    "Price": 19,
+    "TypeId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Pickled Grape Leaves - Nazila",
+    "Description": "4*2750g",
+    "Price": 26,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Grape Leaves – Nazila",
+    "Description": "6*1100g",
+    "Price": 16,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Tormos \"SALADITOS\"",
+    "Description": "12*600g",
+    "Price": 18,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Tormos \"SALADITOS\"",
+    "Description": "10*350g",
+    "Price": 11,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Tormos \"SALADITOS\" Vakium ",
+    "Description": "6*1300g",
+    "Price": 18,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Eggplant \"Makdous \"Al Sham Farms\"",
+    "Description": "6*1300g",
+    "Price": 44,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Eggplant \"Makdous \"Al Sham Farms\"",
+    "Description": "4*3000g",
+    "Price": 58,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Eggplant \"Makdous \"Al Sham Farms\"",
+    "Description": "12*660g",
+    "Price": 40,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Eggplant \"Al Sham Farms\"",
+    "Description": "2*7kg",
+    "Price": 69,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Cucumbers \"Al Sham Farms\"",
+    "Description": "1*9kg",
+    "Price": 14,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Grapes Leaves - Nazila",
+    "Description": "1*10kg",
+    "Price": 13.25,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Grapes Leaves – Nazila",
+    "Description": "12*660g",
+    "Price": 18,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Tormos \"SALADITOS\"",
+    "Description": "6*1300g",
+    "Price": 16,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Tormos \"SALADITOS\"",
+    "Description": "6*1300g",
+    "Price": 20,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Tormos \"SALADITOS\" Vakium ",
+    "Description": "4*2000g",
+    "Price": 24.75,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Eggplant \"Makdous \"Al Sham Farms\"",
+    "Description": "1*10kg",
+    "Price": 30,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Eggplant \"Makdous \"Al Sham Farms\"",
+    "Description": "6*1300g",
+    "Price": 21,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Eggplant \"Makdous \"Al Sham Farms\"",
+    "Description": "1*10kg",
+    "Price": 26,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Eggplant \"Al Sham Farms\"",
+    "Description": "1*10kg",
+    "Price": 33,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Cucumbers \"Al Sham Farms\"",
+    "Description": "4*2000g",
+    "Price": 27,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled black olives Salqini \"Al Sham Farms\"",
+    "Description": "1*10kg",
+    "Price": 30,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Grape Leaves \"Al Sham Farms\"",
+    "Description": "12*660g",
+    "Price": 18,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Grape Leaves \"Al Sham Farms\"",
+    "Description": "4*3000ml",
+    "Price": 24,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Grape Leaves \"Al Sham Farms\"",
+    "Description": "6*1300ml",
+    "Price": 18,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "White Pickled Beets \"Al Sham Farms\"",
+    "Description": "1*10kg",
+    "Price": 13,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Mixed Vegetable Pickles \"Al Sham Farms\"",
+    "Description": "1*10kg",
+    "Price": 14,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Pickled Cucumber –Zahra \"Al Sham Farms\"",
+    "Description": "4,3000g",
+    "Price": 20,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Tormos Pickles \"Al Sham Farms\" or \"Taiba Horizont\" Pickles",
+    "Description": "12*1000g",
+    "Price": 30,
+    "TypeId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Al-Raii Luncheon Meat Chicken",
+    "Description": "340g*12",
+    "Price": 40,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Al-Raii Beef Luncheon Meat",
+    "Description": "340g*24",
+    "Price": 40,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Al-Raii Beef Luncheon Meat",
+    "Description": "200g*24",
+    "Price": 32,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Al-Raii Luncheon Meat Chicken",
+    "Description": "200g*24",
+    "Price": 32,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Freshly Beef Luncheon Meat ",
+    "Description": "340g*12",
+    "Price": 29,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Freshly Beef Luncheon Meat ",
+    "Description": "200g*24",
+    "Price": 37,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Zwan Beef Luncheon Meat",
+    "Description": "340g*12",
+    "Price": 37,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Zwan Beef Luncheon Meat",
+    "Description": "200g*24",
+    "Price": 32,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Freshly Beef Luncheon Meat ",
+    "Description": "340g*12",
+    "Price": 29,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Freshly Beef Luncheon Meat ",
+    "Description": "200g*24",
+    "Price": 37,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Freshly Chicken Luncheon Meat ",
+    "Description": "850g*12",
+    "Price": 48,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Freshly Spicy Chicken Luncheon Meat",
+    "Description": "850g*12",
+    "Price": 48,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Al Maha Poultry Sausage - Chicken Luncheon \"Mild\"",
+    "Description": "575g*12",
+    "Price": 32.5,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Al Maha Poultry Sausage - Chicken Luncheon \"Mild\"",
+    "Description": "850g*12",
+    "Price": 49,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Al Maha Poultry Sausage - Chicken Luncheon \"Hot\"",
+    "Description": "860g*12",
+    "Price": 49,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Robert Chicken Luncheon Meat \"Mild\"",
+    "Description": "850g*12",
+    "Price": 55,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Robert Chicken Luncheon Meat \"Mild\"",
+    "Description": "200g*24",
+    "Price": 32.5,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Robert Chicken Luncheon Meat \"Mild\"",
+    "Description": "340g*12",
+    "Price": 23.5,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Robert Chicken Luncheon Meat \"Mild\"",
+    "Description": "575g*8",
+    "Price": 30,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Robert Chicken Luncheon with Olives",
+    "Description": "575g*8",
+    "Price": 30,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Robert Chicken Luncheon Meat Hot ",
+    "Description": "340g*12",
+    "Price": 23.5,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Robert Chicken Luncheon Meat with Olives",
+    "Description": "340g*12",
+    "Price": 23,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Robert Beef Luncheon Meat with Chicken ",
+    "Description": "200g*24",
+    "Price": 54,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Robert Beef Luncheon Meat with Chicken ",
+    "Description": "850g*12",
+    "Price": 88,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Robert Beef Luncheon Meat with Chicken ",
+    "Description": "340g*12",
+    "Price": 58,
+    "TypeId": 5,
+    "BrandId": 6
+  },
+  {
+    "Name": "Horse Drink",
+    "Description": "24*330ml",
+    "Price": 15,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Barbican Mix Drink",
+    "Description": "24*330ml",
+    "Price": 19,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Basil Seed Drink",
+    "Description": "Q24*290ml",
+    "Price": 24.5,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Drink",
+    "Description": "12*330ml",
+    "Price": 7,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Drink",
+    "Description": "24*250ml",
+    "Price": 18,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Freeze Drink",
+    "Description": "24*330ml",
+    "Price": 24,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Lemonade Drink",
+    "Description": "6",
+    "Price": 13,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Vimto Drink",
+    "Description": "24,*330ml",
+    "Price": 14.4,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Abido Sahlab",
+    "Description": "24*500g",
+    "Price": 52,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Aruba Pineapple Drink",
+    "Description": "20*750g",
+    "Price": 23,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Aruba Powder Drink Guava",
+    "Description": "20*750g",
+    "Price": 23,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Aruba Powder Drink Lemon",
+    "Description": "20*750g",
+    "Price": 23,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Aruba Powder Drink Mandarin",
+    "Description": "20*750g",
+    "Price": 23,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Aruba Powder Drink Mango",
+    "Description": "20*750g",
+    "Price": 25,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Aruba Powder Drink Orange",
+    "Description": "20*750g",
+    "Price": 23,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Aruba Rose Powder Drink",
+    "Description": "20*750g",
+    "Price": 25,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Aruba Drink Strawberry & Banana",
+    "Description": "20*750g",
+    "Price": 25,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Aruba Powder Drink Strawberry ",
+    "Description": "20*750g",
+    "Price": 25,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Aruba Tropical Powder",
+    "Description": "20*750g",
+    "Price": 25,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Milo Instant Malt Chocolate Drinking Powder ",
+    "Description": "24*400g",
+    "Price": 128,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Pomegranate Debes Basra",
+    "Description": "12*450g",
+    "Price": 27.5,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Pomegranate Al Safire",
+    "Description": "24*250ml",
+    "Price": 30,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Pomegranate Yamama",
+    "Description": "12*750ml",
+    "Price": 44,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Pomegranate Yamama",
+    "Description": "24*300ml",
+    "Price": 48,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Pomegranate Glass Drink",
+    "Description": "12*500ml",
+    "Price": 26,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Jallab Taj Drink",
+    "Description": "12*600ml",
+    "Price": 36,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Jallab Taj Drink",
+    "Description": "4*2500ml",
+    "Price": 34,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "SunQuick Mango",
+    "Description": "6*840ml",
+    "Price": 23,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "SunQuick Orange",
+    "Description": "6*840ml",
+    "Price": 23,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "SunQuick Tropical",
+    "Description": "6*840ml",
+    "Price": 23,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Sunich Drink",
+    "Description": "6*780g",
+    "Price": 17,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Vimto Drink",
+    "Description": "12*700ml",
+    "Price": 39,
+    "TypeId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Adonis Lime Spice",
+    "Description": "50g*10",
+    "Price": 4,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices ",
+    "Description": "1*1kg",
+    "Price": 13.5,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Turmeric",
+    "Description": "10*1kg",
+    "Price": 76,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Allspices",
+    "Description": "10*50+-g",
+    "Price": 7.25,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Anise",
+    "Description": "1*1k",
+    "Price": 7.5,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Whole Cloves",
+    "Description": "1*1500kg",
+    "Price": 12,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Kaftah ",
+    "Description": "10,50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Hot Curry",
+    "Description": "10*50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Chicken",
+    "Description": "10,25g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Light Curry",
+    "Description": "10*50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Barbecue",
+    "Description": "10*50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Hamburger",
+    "Description": "10*50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Garlic",
+    "Description": "10*50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Maqluba",
+    "Description": "10*50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Naqanik",
+    "Description": "10*50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Paprika",
+    "Description": "12*100g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Ground Cinnamon",
+    "Description": "12*50g",
+    "Price": 35,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Whole Cinnamon",
+    "Description": "10*25g",
+    "Price": 16,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Ground Cinnamon",
+    "Description": "10*25g",
+    "Price": 18,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Ground Cardamom",
+    "Description": "10*20g",
+    "Price": 11,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Ground Spices ",
+    "Description": "12*50g",
+    "Price": 32,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Anise Ground",
+    "Description": "10*50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Basilicum",
+    "Description": "10*15g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Pastirma",
+    "Description": "10*50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Shawarma Ground",
+    "Description": "10*50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Shawarma Coarse",
+    "Description": "10*50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Fish",
+    "Description": "10*50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Chicken",
+    "Description": "10*50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Hilba (Fenugreek) Ground",
+    "Description": "10,50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Coarse",
+    "Description": "10*50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Country Ground",
+    "Description": "10*50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Kibbeh Ground",
+    "Description": "10*50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Kibbeh Coarse",
+    "Description": "10*50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Marjoram",
+    "Description": "10*10g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices * Moghrabieh",
+    "Description": "10*50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Nuts Coarse",
+    "Description": "10*20g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Oregano",
+    "Description": "10*15g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Black Cumin",
+    "Description": "10*50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Spices Paprika Ground",
+    "Description": "10*50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Adonis Taouk Red Spice",
+    "Description": "10*50g",
+    "Price": 6,
+    "TypeId": 5,
+    "BrandId": 8
+  },
+  {
+    "Name": "Teapot",
+    "Description": "1L",
+    "Price": 5,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Teapot",
+    "Description": "1,5L",
+    "Price": 4.2,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Teapot",
+    "Description": "2,5L",
+    "Price": 6.5,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Teapot",
+    "Description": "2l",
+    "Price": 5.5,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Teapot",
+    "Description": "3l",
+    "Price": 6.4,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Teapot",
+    "Description": "3,5l",
+    "Price": 9.25,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Teapot",
+    "Description": "4L",
+    "Price": 8.5,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Zucchini Spoon",
+    "Description": "12er",
+    "Price": 7.5,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Zucchini Conex Spoon",
+    "Description": "12er",
+    "Price": 16,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Arabic Gold Coffeepot",
+    "Description": "1er Set",
+    "Price": 15,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Arabic Gold Coffeepot",
+    "Description": "4er Set",
+    "Price": 70,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Saudi Coffeepot",
+    "Description": "3er Set",
+    "Price": 58,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Arabic Shape Coffee Tray",
+    "Description": "1",
+    "Price": 10,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Coffee Tray with Cup Stand",
+    "Description": "1",
+    "Price": 10,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Oriental Coffee Cups",
+    "Description": "12",
+    "Price": 5,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Oriental Coffee Cup",
+    "Description": "12er",
+    "Price": 3.75,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Regular Arabic Coffee Cups",
+    "Description": "6er Set M.",
+    "Price": 5,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Arabic Coffee Cups with Small Dishes ",
+    "Description": "12er",
+    "Price": 6.6,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Arabic Tea Cup with Handle",
+    "Description": "12st",
+    "Price": 3,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Arabic Tea Cups",
+    "Description": "1*12st",
+    "Price": 9,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Stainless Steel Falafel Spoon",
+    "Description": "1*12st",
+    "Price": 10,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Falafel Spoon Box",
+    "Description": "3er",
+    "Price": 34,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Barbecue Set",
+    "Description": "1",
+    "Price": 1.6,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Maamoul Spoon",
+    "Description": "12er set",
+    "Price": 7,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Mate Spoon",
+    "Description": "6er set",
+    "Price": 11,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": " Extra Long Mate Spoon",
+    "Description": "1",
+    "Price": 1.5,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Regular Coffee Pot",
+    "Description": "4er",
+    "Price": 22,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Red Baghdadi Kani Coffee",
+    "Description": "5er",
+    "Price": 20,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Coffee Holder",
+    "Description": "1",
+    "Price": 8.4,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Assorted Samosa Mold",
+    "Description": "1*12er",
+    "Price": 7,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Disposable Tablecloths, Amo Ali Safra Rolls",
+    "Description": "28*400g",
+    "Price": 26.75,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Disposable Tablecloths, Zizan Sofra Rolls",
+    "Description": "15*90*100m",
+    "Price": 23.5,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Dettol",
+    "Description": "500ml",
+    "Price": 105,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Dettol Soap",
+    "Description": "72*12",
+    "Price": 64,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Johnson's Soap",
+    "Description": "72,125g",
+    "Price": 37,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Johnson's Soap Natural Olive Oil ",
+    "Description": "5kg",
+    "Price": 15,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Natural Olive Oil \"Ahmed Barakat \"",
+    "Description": "10*4*200g",
+    "Price": 21,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Natural Olive Oil Soap",
+    "Description": "1kg",
+    "Price": 4.5,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Sabbah Dishwashing Liquid",
+    "Description": "12*450ml",
+    "Price": 6.25,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Garlic Spice Pest",
+    "Description": "1",
+    "Price": 2.75,
+    "TypeId": 5,
+    "BrandId": 9
+  },
+  {
+    "Name": "Akkawi Cheese AlMawasem",
+    "Description": "1*17kg",
+    "Price": 118,
+    "TypeId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "Akkawi Cheese",
+    "Description": "48*170g",
+    "Price": 55,
+    "TypeId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "Nestle Cream Kaymak",
+    "Description": "12*397g",
+    "Price": 25,
+    "TypeId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "Nestle Condensed Milk",
+    "Description": "12*900g",
+    "Price": 138,
+    "TypeId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "NIDO Milk Powder",
+    "Description": "24*400g",
+    "Price": 126,
+    "TypeId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "NIDO Milk Powder",
+    "Description": "6*2500g",
+    "Price": 163,
+    "TypeId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "NIDO Milk Powder",
+    "Description": "20*400g",
+    "Price": 66,
+    "TypeId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "SMEDS Cheese",
+    "Description": "10*800g",
+    "Price": 56,
+    "TypeId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "Baladi Cheese Vakium",
+    "Description": "32*250g",
+    "Price": 82,
+    "TypeId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "Cheese Kashkaval",
+    "Description": "10*800g",
+    "Price": 84,
+    "TypeId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "Chelal Vakium Cheese ",
+    "Description": "10*800g",
+    "Price": 85,
+    "TypeId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "Chelal Vakium Cheese ",
+    "Description": "1*8kg",
+    "Price": 56,
+    "TypeId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "Baladi cheese",
+    "Description": "1,8kg",
+    "Price": 75,
+    "TypeId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "Cheese Fire",
+    "Description": "10*800g",
+    "Price": 72,
+    "TypeId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "Msanara Vakium Cheese ",
+    "Description": "10*800g",
+    "Price": 84,
+    "TypeId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "Majdula Cheese Sticks",
+    "Description": "1*7kg",
+    "Price": 67,
+    "TypeId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "Shellal Cheese",
+    "Description": "6*900g",
+    "Price": 43,
+    "TypeId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "Lailand Hamwi Cheese",
+    "Description": "24*240g",
+    "Price": 60,
+    "TypeId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "Puck Processed Cheese",
+    "Description": "6*500g",
+    "Price": 24,
+    "TypeId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "Processed Cheese",
+    "Description": "6*910g",
+    "Price": 41,
+    "TypeId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "Processed Cheese",
+    "Description": "1*1kg",
+    "Price": 10.3,
+    "TypeId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "Fresh Chocolate Milk",
+    "Description": "340g*12",
+    "Price": 40,
+    "TypeId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "Basmati Rice Sella \" Abu Kass\"",
+    "Description": "20*900g",
+    "Price": 52,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Basmati Rice Sella \" Abu Kass\"",
+    "Description": "4*5KG",
+    "Price": 41.5,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Basmati Rice Sella \"Akrami\"",
+    "Description": "4*5KG",
+    "Price": 38,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Basmati Rice Sella",
+    "Description": "2*10KG",
+    "Price": 50,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Basmati Rice Sella",
+    "Description": "4*5kg",
+    "Price": 48,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Basmati Rice Sella \"Mahmood\"",
+    "Description": "20*907g",
+    "Price": 55,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Basmati Rice Sella \"Mahmood\"",
+    "Description": "20*900g",
+    "Price": 52,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Basmati Rice Sella \"Mahmood\"",
+    "Description": "4*4,5KG",
+    "Price": 53,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Basmati Rice Sella \"Al Shalan\"",
+    "Description": "20*1kg",
+    "Price": 42,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Basmati Rice Sella \"Al Shalan\"",
+    "Description": "4*5kg",
+    "Price": 45,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Basmati Rice Sella \"Swan\"",
+    "Description": "20*900G",
+    "Price": 54,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Basmati Rice Sella \"Swan\"",
+    "Description": "4*5KG",
+    "Price": 50,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Super Sella Basmati Rice \" Milad\"",
+    "Description": "2*10kg",
+    "Price": 34,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Super Sella Basmati Rice \" Milad\"",
+    "Description": "4x5kg",
+    "Price": 35,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Egyptian Rice \"Mahmoud\"",
+    "Description": "4*5KG",
+    "Price": 45,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Egyptian Rice \"Mahmoud\"",
+    "Description": "12*900g",
+    "Price": 14,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Light Aleppo Walnuts \"China\"",
+    "Description": "1*10kh",
+    "Price": 62,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Abu Al-Joud Hummus with Tahini",
+    "Description": "12*500g",
+    "Price": 25,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Abu Al-Joud Hummus with Tahini",
+    "Description": "24*250g",
+    "Price": 22,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Kasih Hummus with Tahini",
+    "Description": "12*510g",
+    "Price": 31.5,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Kasih Hummus with Tahini",
+    "Description": "4*1kg",
+    "Price": 20.75,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Kasih Hummus with Tahini",
+    "Description": "48*135g",
+    "Price": 33.65,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Extra Light Premium Walnuts from Chile Greenvick",
+    "Description": "1*10kh",
+    "Price": 135,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Extra Light Premium Walnuts from Chile \"Greenvick\"",
+    "Description": "8*1kg",
+    "Price": 8.5,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Persian Hummus",
+    "Description": "15kg",
+    "Price": 23,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Mexican Javo Hummus",
+    "Description": "25kg",
+    "Price": 49,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Afaq Tayyiba Hummus",
+    "Description": "14,800g",
+    "Price": 29,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Crushed Hummus",
+    "Description": "1*25kg",
+    "Price": 26,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Dry Hummus",
+    "Description": "1*25kg",
+    "Price": 32.5,
+    "TypeId": 5,
+    "BrandId": 11
+  },
+  {
+    "Name": "Wafer Sandwich Biscuits",
+    "Description": "6*12*50g",
+    "Price": 23.35,
+    "TypeId": 5,
+    "BrandId": 12
+  },
+  {
+    "Name": "Wafer Star Biscuits",
+    "Description": "6*24*34g",
+    "Price": 25,
+    "TypeId": 5,
+    "BrandId": 12
+  },
+  {
+    "Name": "Al Fakher, Original White Chocolate Cream Biscuits",
+    "Description": "12*12x30g",
+    "Price": 29,
+    "TypeId": 5,
+    "BrandId": 12
+  },
+  {
+    "Name": "Al Fakher, Original White Chocolate Cream Biscuits, Origin",
+    "Description": "6*24x30g",
+    "Price": 30,
+    "TypeId": 5,
+    "BrandId": 12
+  },
+  {
+    "Name": "Al Fakher, Dark Chocolate Cream Biscuits, Origin",
+    "Description": "12*12x30g",
+    "Price": 29,
+    "TypeId": 5,
+    "BrandId": 12
+  },
+  {
+    "Name": "Al Fakher, Dark Chocolate Cream Biscuits, Origin",
+    "Description": "6*24*30g",
+    "Price": 32,
+    "TypeId": 5,
+    "BrandId": 12
+  },
+  {
+    "Name": "Custard Cream Biscuits ",
+    "Description": "12*24*25g",
+    "Price": 16,
+    "TypeId": 5,
+    "BrandId": 12
+  },
+  {
+    "Name": "Cream Biscuits",
+    "Description": "24*68g",
+    "Price": 4.5,
+    "TypeId": 5,
+    "BrandId": 12
+  },
+  {
+    "Name": "Deemah Neo Cream Biscuits",
+    "Description": "24*68g",
+    "Price": 4.45,
+    "TypeId": 5,
+    "BrandId": 12
+  },
+  {
+    "Name": "Deemah cream biscuits Different Flavors ",
+    "Description": "9*16*30g",
+    "Price": 16,
+    "TypeId": 5,
+    "BrandId": 12
+  },
+  {
+    "Name": "Deemah Blueberry Cream Biscuits ",
+    "Description": " 24*68g",
+    "Price": 4.7,
+    "TypeId": 5,
+    "BrandId": 12
+  },
+  {
+    "Name": "Katakit Dates Biscuits ",
+    "Description": "6*(24*20g) ",
+    "Price": 19,
+    "TypeId": 5,
+    "BrandId": 12
+  },
+  {
+    "Name": "Katakite Twist Dark Cream Biscuits",
+    "Description": "12*12*24g",
+    "Price": 20,
+    "TypeId": 5,
+    "BrandId": 12
+  },
+  {
+    "Name": "Katakite Twist Milk Cream Biscuits",
+    "Description": "6*24*27g",
+    "Price": 22.5,
+    "TypeId": 5,
+    "BrandId": 12
+  },
+  {
+    "Name": "Deemah Dates Bars",
+    "Description": "9*24*21g",
+    "Price": 17,
+    "TypeId": 5,
+    "BrandId": 12
+  },
+  {
+    "Name": "Deemah Fig Bars",
+    "Description": "9*24*21g",
+    "Price": 16,
+    "TypeId": 5,
+    "BrandId": 12
+  },
+  {
+    "Name": "Lazy Cake Chocolate Biscuits",
+    "Description": " 8*16*28g",
+    "Price": 28,
+    "TypeId": 5,
+    "BrandId": 12
+  },
+  {
+    "Name": "Katakite Twist Chocolate Cream Biscuits",
+    "Description": "6*24*27g",
+    "Price": 21.5,
+    "TypeId": 5,
+    "BrandId": 12
+  },
+  {
+    "Name": "Ahmad Tea Aromatic ",
+    "Description": "24*500g",
+    "Price": 115,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Ahmad Tea Green Tea ",
+    "Description": "24*500g",
+    "Price": 116,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Ahmad Tea Special Blend",
+    "Description": "24*500g",
+    "Price": 115,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Alwazah Tea",
+    "Description": "36*110*2g",
+    "Price": 96,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Ceylon Tea ",
+    "Description": "12*700g",
+    "Price": 132,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Ceylon Tea ",
+    "Description": "12*800g",
+    "Price": 118,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Ceylon Tea ",
+    "Description": "24*350g",
+    "Price": 120,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Ceylon Tea ",
+    "Description": "24*400g",
+    "Price": 120,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Ceylon Tea Bag",
+    "Description": "8*100*2g",
+    "Price": 24,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Ceylon Tea ",
+    "Description": "60*140g",
+    "Price": 130,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Cherry Black Tea",
+    "Description": "40*200g",
+    "Price": 119,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Cherry Black Tea",
+    "Description": "10*900g",
+    "Price": 114,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Cherry Black Tea",
+    "Description": "20*450g",
+    "Price": 113,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Cherry Black Tea Alkaraza Bag",
+    "Description": " 36*112*2g",
+    "Price": 132,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Cherry Black Tea  Alkaraza Bag",
+    "Description": "48*25*2g",
+    "Price": 48,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Do Ghazal Yellow Cardamom Tea ",
+    "Description": "24*100St",
+    "Price": 79,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Do Ghazal Earl Grey  Black Tea",
+    "Description": "24*100St",
+    "Price": 80,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Do Ghazal Green Tea",
+    "Description": "12x500g",
+    "Price": 68,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Do Ghazal Red Standard Tea",
+    "Description": "24*100St",
+    "Price": 76,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Do Ghazal Tea",
+    "Description": "12*25st",
+    "Price": 20.5,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Lipton Tea",
+    "Description": "12*100St",
+    "Price": 34.5,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Lipton Tea",
+    "Description": "36x2Gx100st.",
+    "Price": 80,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Hamwi Liquid Coffee",
+    "Description": "6*1L",
+    "Price": 18,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Hala Coffee",
+    "Description": "12*25g",
+    "Price": 9,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Hamwi Classic Coffee",
+    "Description": " 10*450g",
+    "Price": 92,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Hamwi Classic Coffee",
+    "Description": " 12*180g",
+    "Price": 40,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "PG Original Black Tea",
+    "Description": " 8*300*2g",
+    "Price": 56,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Kafri Black Tea ",
+    "Description": "20*450g",
+    "Price": 99,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Kafri Black Tea",
+    "Description": "36*100*2g",
+    "Price": 97,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Kafri Black Tea",
+    "Description": "48*25*2g",
+    "Price": 38,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Hamwi Extra Coffee",
+    "Description": "12*180g",
+    "Price": 48,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Hamwi Extra Coffee",
+    "Description": " 12*450g",
+    "Price": 99,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Hasseeb Coffee",
+    "Description": "10*500g",
+    "Price": 88,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Shami Coffee Blue",
+    "Description": "8*450g",
+    "Price": 82,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Shami Coffee Golden",
+    "Description": "8*450g",
+    "Price": 82,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Al-Najjar Selection Coffee with Lebanese Cinnamon",
+    "Description": " 10*450g",
+    "Price": 68,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Al-Najjar Selection Coffee with Lebanese Cinnamon",
+    "Description": " 20*200g",
+    "Price": 65,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Al-Najjar Selection Plain Lebanese Coffee",
+    "Description": "10*450g",
+    "Price": 68,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Nestle Nescafe 3 in 1",
+    "Description": "10*30*20g",
+    "Price": 68,
+    "TypeId": 5,
+    "BrandId": 13
+  },
+  {
+    "Name": "Ice Coffee",
+    "Description": "24*250ml",
+    "Price": 16,
+    "TypeId": 5,
+    "BrandId": 13
+  }
+]
