@@ -46,3 +46,19 @@ D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Comm
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Core\Services.Abstractions\obj\Debug\net8.0\refint\Services.Abstractions.dll
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.pdb
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Core\Services.Abstractions\obj\Debug\net8.0\ref\Services.Abstractions.dll
+E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Services.Abstractions\bin\Debug\net8.0\Services.Abstractions.deps.json
+E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Services.Abstractions\bin\Debug\net8.0\Services.Abstractions.dll
+E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Services.Abstractions\bin\Debug\net8.0\Services.Abstractions.pdb
+E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Services.Abstractions\bin\Debug\net8.0\Shared.dll
+E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Services.Abstractions\bin\Debug\net8.0\Shared.pdb
+E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.csproj.AssemblyReference.cache
+E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.AssemblyInfoInputs.cache
+E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.AssemblyInfo.cs
+E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.csproj.CoreCompileInputs.cache
+E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.sourcelink.json
+E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Services.Abstractions\obj\Debug\net8.0\Services.E74F1EB6.Up2Date
+E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.dll
+E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Services.Abstractions\obj\Debug\net8.0\refint\Services.Abstractions.dll
+E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.pdb
+E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Services.Abstractions\obj\Debug\net8.0\ref\Services.Abstractions.dll
