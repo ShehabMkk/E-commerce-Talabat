@@ -1,80 +1,76 @@
 {
   "Files": [
     {
-      "Id": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\CheesyVegetableLasagna.png",
+      "Id": "D:\\ASP .NET Route Course\\Eng Mohamed Gamal\\08 Asp.Net Web Apis\\E-Commerce\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\CheesyVegetableLasagna.png",
       "PackagePath": "staticwebassets\\Images\\Products\\CheesyVegetableLasagna.png"
     },
     {
-      "Id": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\ChickenMarsala.png",
+      "Id": "D:\\ASP .NET Route Course\\Eng Mohamed Gamal\\08 Asp.Net Web Apis\\E-Commerce\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\ChickenMarsala.png",
       "PackagePath": "staticwebassets\\Images\\Products\\ChickenMarsala.png"
     },
     {
-      "Id": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\ChickenTeriyakiNoodles.png",
+      "Id": "D:\\ASP .NET Route Course\\Eng Mohamed Gamal\\08 Asp.Net Web Apis\\E-Commerce\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\ChickenTeriyakiNoodles.png",
       "PackagePath": "staticwebassets\\Images\\Products\\ChickenTeriyakiNoodles.png"
     },
     {
-      "Id": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\ChickenTikkaMasala.jpg",
+      "Id": "D:\\ASP .NET Route Course\\Eng Mohamed Gamal\\08 Asp.Net Web Apis\\E-Commerce\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\ChickenTikkaMasala.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\ChickenTikkaMasala.jpg"
     },
     {
-      "Id": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\Congee.png",
+      "Id": "D:\\ASP .NET Route Course\\Eng Mohamed Gamal\\08 Asp.Net Web Apis\\E-Commerce\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\Congee.png",
       "PackagePath": "staticwebassets\\Images\\Products\\Congee.png"
     },
     {
-      "Id": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\CreamyGochujangTortellini.png",
+      "Id": "D:\\ASP .NET Route Course\\Eng Mohamed Gamal\\08 Asp.Net Web Apis\\E-Commerce\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\CreamyGochujangTortellini.png",
       "PackagePath": "staticwebassets\\Images\\Products\\CreamyGochujangTortellini.png"
     },
     {
-      "Id": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\CrispyVegetablePakoras.png",
+      "Id": "D:\\ASP .NET Route Course\\Eng Mohamed Gamal\\08 Asp.Net Web Apis\\E-Commerce\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\CrispyVegetablePakoras.png",
       "PackagePath": "staticwebassets\\Images\\Products\\CrispyVegetablePakoras.png"
     },
     {
-      "Id": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\HaluskiNoodles.png",
+      "Id": "D:\\ASP .NET Route Course\\Eng Mohamed Gamal\\08 Asp.Net Web Apis\\E-Commerce\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\HaluskiNoodles.png",
       "PackagePath": "staticwebassets\\Images\\Products\\HaluskiNoodles.png"
     },
     {
-      "Id": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\HeartyVegetableLasagna.png",
+      "Id": "D:\\ASP .NET Route Course\\Eng Mohamed Gamal\\08 Asp.Net Web Apis\\E-Commerce\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\HeartyVegetableLasagna.png",
       "PackagePath": "staticwebassets\\Images\\Products\\HeartyVegetableLasagna.png"
     },
     {
-      "Id": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\ItalianChickenMarinade.png",
+      "Id": "D:\\ASP .NET Route Course\\Eng Mohamed Gamal\\08 Asp.Net Web Apis\\E-Commerce\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\ItalianChickenMarinade.png",
       "PackagePath": "staticwebassets\\Images\\Products\\ItalianChickenMarinade.png"
     },
     {
-      "Id": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\ItalianWeddingSoup.png",
+      "Id": "D:\\ASP .NET Route Course\\Eng Mohamed Gamal\\08 Asp.Net Web Apis\\E-Commerce\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\ItalianWeddingSoup.png",
       "PackagePath": "staticwebassets\\Images\\Products\\ItalianWeddingSoup.png"
     },
     {
-      "Id": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\Kulfi.png",
+      "Id": "D:\\ASP .NET Route Course\\Eng Mohamed Gamal\\08 Asp.Net Web Apis\\E-Commerce\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\Kulfi.png",
       "PackagePath": "staticwebassets\\Images\\Products\\Kulfi.png"
     },
     {
-      "Id": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\PastaSalad.png",
+      "Id": "D:\\ASP .NET Route Course\\Eng Mohamed Gamal\\08 Asp.Net Web Apis\\E-Commerce\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\PastaSalad.png",
       "PackagePath": "staticwebassets\\Images\\Products\\PastaSalad.png"
     },
     {
-      "Id": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\PepperPasta.png",
+      "Id": "D:\\ASP .NET Route Course\\Eng Mohamed Gamal\\08 Asp.Net Web Apis\\E-Commerce\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\PepperPasta.png",
       "PackagePath": "staticwebassets\\Images\\Products\\PepperPasta.png"
     },
     {
-      "Id": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\ShrimpEggFooYoung.png",
+      "Id": "D:\\ASP .NET Route Course\\Eng Mohamed Gamal\\08 Asp.Net Web Apis\\E-Commerce\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\ShrimpEggFooYoung.png",
       "PackagePath": "staticwebassets\\Images\\Products\\ShrimpEggFooYoung.png"
     },
     {
-      "Id": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\TandooriChicken.png",
+      "Id": "D:\\ASP .NET Route Course\\Eng Mohamed Gamal\\08 Asp.Net Web Apis\\E-Commerce\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\TandooriChicken.png",
       "PackagePath": "staticwebassets\\Images\\Products\\TandooriChicken.png"
     },
     {
-      "Id": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\VegetarianKorma.png",
+      "Id": "D:\\ASP .NET Route Course\\Eng Mohamed Gamal\\08 Asp.Net Web Apis\\E-Commerce\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\VegetarianKorma.png",
       "PackagePath": "staticwebassets\\Images\\Products\\VegetarianKorma.png"
     },
     {
-      "Id": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\VegetarianRefriedBeans.png",
+      "Id": "D:\\ASP .NET Route Course\\Eng Mohamed Gamal\\08 Asp.Net Web Apis\\E-Commerce\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\Products\\VegetarianRefriedBeans.png",
       "PackagePath": "staticwebassets\\Images\\Products\\VegetarianRefriedBeans.png"
-    },
-    {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.E-Commerce.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
-      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.E-Commerce.API.Microsoft.AspNetCore.StaticWebAssets.props",

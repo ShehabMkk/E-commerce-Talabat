@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\E-Commerce.API.csproj": {}
+    "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\E-Commerce.API.csproj": {}
   },
   "projects": {
-    "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Core\\Domain\\Domain.csproj": {
+    "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Core\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Core\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Core\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Core\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\ar272\\.nuget\\packages\\",
-        "outputPath": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Core\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Core\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Core\\Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ar272\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,9 +38,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -71,25 +66,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services.Abstractions\\Services.Abstractions.csproj": {
+    "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services.Abstractions\\Services.Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services.Abstractions\\Services.Abstractions.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services.Abstractions\\Services.Abstractions.csproj",
         "projectName": "Services.Abstractions",
-        "projectPath": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services.Abstractions\\Services.Abstractions.csproj",
-        "packagesPath": "C:\\Users\\ar272\\.nuget\\packages\\",
-        "outputPath": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services.Abstractions\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services.Abstractions\\Services.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services.Abstractions\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ar272\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -103,8 +94,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Shared\\Shared.csproj": {
-                "projectPath": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Shared\\Shared.csproj"
+              "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Shared\\Shared.csproj"
               }
             }
           }
@@ -117,9 +108,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -140,25 +130,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services\\Services.csproj": {
+    "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\ar272\\.nuget\\packages\\",
-        "outputPath": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ar272\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -172,11 +158,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Core\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Core\\Domain\\Domain.csproj"
+              "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Core\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Core\\Domain\\Domain.csproj"
               },
-              "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services.Abstractions\\Services.Abstractions.csproj": {
-                "projectPath": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services.Abstractions\\Services.Abstractions.csproj"
+              "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services.Abstractions\\Services.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services.Abstractions\\Services.Abstractions.csproj"
               }
             }
           }
@@ -189,9 +175,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -230,25 +215,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\E-Commerce.API.csproj": {
+    "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\E-Commerce.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\E-Commerce.API.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\E-Commerce.API.csproj",
         "projectName": "E-Commerce.API",
-        "projectPath": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\E-Commerce.API.csproj",
-        "packagesPath": "C:\\Users\\ar272\\.nuget\\packages\\",
-        "outputPath": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\E-Commerce.API.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\E-Commerce.API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ar272\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -262,14 +243,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services\\Services.csproj": {
-                "projectPath": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services\\Services.csproj"
+              "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services\\Services.csproj"
               },
-              "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Persistence\\Persistence.csproj": {
-                "projectPath": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Persistence\\Persistence.csproj"
+              "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Persistence\\Persistence.csproj"
               },
-              "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Presentation\\Presentation.csproj": {
-                "projectPath": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Presentation\\Presentation.csproj"
+              "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Presentation\\Presentation.csproj": {
+                "projectPath": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Presentation\\Presentation.csproj"
               }
             }
           }
@@ -282,9 +263,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -320,25 +300,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\ar272\\.nuget\\packages\\",
-        "outputPath": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Persistence\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ar272\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -352,8 +328,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services\\Services.csproj": {
-                "projectPath": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services\\Services.csproj"
+              "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services\\Services.csproj"
               }
             }
           }
@@ -366,9 +342,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -399,25 +374,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Presentation\\Presentation.csproj": {
+    "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Presentation\\Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Presentation\\Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Presentation\\Presentation.csproj",
         "projectName": "Presentation",
-        "projectPath": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Presentation\\Presentation.csproj",
-        "packagesPath": "C:\\Users\\ar272\\.nuget\\packages\\",
-        "outputPath": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Presentation\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Presentation\\Presentation.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Infrastructure\\Presentation\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ar272\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -431,8 +402,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services.Abstractions\\Services.Abstractions.csproj": {
-                "projectPath": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services.Abstractions\\Services.Abstractions.csproj"
+              "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services.Abstractions\\Services.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Core\\Services.Abstractions\\Services.Abstractions.csproj"
               }
             }
           }
@@ -445,9 +416,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -471,25 +441,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Shared\\Shared.csproj": {
+    "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Shared\\Shared.csproj",
-        "packagesPath": "C:\\Users\\ar272\\.nuget\\packages\\",
-        "outputPath": "E:\\Abdo ElDeeb\\Simple projects\\SW Project\\E-commerce-Talabat\\E-Commerce\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Downloads\\Ecommerce Project\\E-commerce-Talabat\\E-Commerce\\Shared\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ar272\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -513,9 +479,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -536,7 +501,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

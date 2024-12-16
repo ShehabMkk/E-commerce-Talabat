@@ -52,21 +52,3 @@ D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Comm
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\refint\Presentation.dll
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.pdb
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\ref\Presentation.dll
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Presentation.deps.json
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Presentation.dll
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Presentation.pdb
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Services.Abstractions.dll
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Shared.dll
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Services.Abstractions.pdb
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Shared.pdb
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.dll
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\refint\Presentation.dll
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.pdb
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\ref\Presentation.dll

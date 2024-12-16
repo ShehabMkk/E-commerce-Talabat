@@ -64,25 +64,3 @@ D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Comm
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\refint\Persistence.dll
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.pdb
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\ref\Persistence.dll
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.deps.json
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.dll
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.pdb
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Domain.dll
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Services.Abstractions.dll
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Services.dll
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Shared.dll
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Services.pdb
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Domain.pdb
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Services.Abstractions.pdb
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Shared.pdb
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.dll
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\refint\Persistence.dll
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.pdb
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\ref\Persistence.dll

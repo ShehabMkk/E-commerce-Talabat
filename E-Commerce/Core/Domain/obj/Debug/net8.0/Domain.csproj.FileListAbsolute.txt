@@ -36,16 +36,3 @@ D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Comm
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Core\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.pdb
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Core\Domain\obj\Debug\net8.0\ref\Domain.dll
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Domain\bin\Debug\net8.0\Domain.deps.json
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Domain\bin\Debug\net8.0\Domain.dll
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Domain\bin\Debug\net8.0\Domain.pdb
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.sourcelink.json
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.dll
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Domain\obj\Debug\net8.0\refint\Domain.dll
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.pdb
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Core\Domain\obj\Debug\net8.0\ref\Domain.dll

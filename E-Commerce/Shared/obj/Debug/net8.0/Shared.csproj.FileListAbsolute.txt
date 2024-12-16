@@ -34,15 +34,3 @@ D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Comm
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Shared\obj\Debug\net8.0\refint\Shared.dll
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Shared\obj\Debug\net8.0\Shared.pdb
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Shared\obj\Debug\net8.0\ref\Shared.dll
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Shared\bin\Debug\net8.0\Shared.deps.json
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Shared\bin\Debug\net8.0\Shared.dll
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Shared\bin\Debug\net8.0\Shared.pdb
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Shared\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Shared\obj\Debug\net8.0\Shared.sourcelink.json
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Shared\obj\Debug\net8.0\Shared.dll
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Shared\obj\Debug\net8.0\refint\Shared.dll
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Shared\obj\Debug\net8.0\Shared.pdb
-E:\Abdo ElDeeb\Simple projects\SW Project\E-commerce-Talabat\E-Commerce\Shared\obj\Debug\net8.0\ref\Shared.dll
