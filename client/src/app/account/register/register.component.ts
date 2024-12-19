@@ -23,11 +23,13 @@ export class RegisterComponent implements OnInit {
   createRegisterForm() { // Add User Name 
     this.registerForm = this.fb.group({
       displayName: [null, [Validators.required]],
+      userName: [null, [Validators.required]],
       email: [null, 
         [Validators.required, Validators
         .pattern('^[\\w-\\.]+@([\\w-]+\\.)+[\\w-]{2,4}$')],
         [this.validateEmailNotTaken()]
       ],
+      phoneNumber: [null, [Validators.required]],
       password: [null, Validators.required]
     });
   }
