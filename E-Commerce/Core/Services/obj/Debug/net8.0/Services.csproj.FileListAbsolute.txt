@@ -52,7 +52,6 @@ D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Comm
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Core\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Core\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Core\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
-D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Core\Services\obj\Debug\net8.0\Services.sourcelink.json
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Core\Services\obj\Debug\net8.0\Services.csproj.Up2Date
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Core\Services\obj\Debug\net8.0\Services.dll
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Core\Services\obj\Debug\net8.0\refint\Services.dll

@@ -31,7 +31,6 @@ D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Comm
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
-D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.sourcelink.json
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.dll
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Core\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.pdb

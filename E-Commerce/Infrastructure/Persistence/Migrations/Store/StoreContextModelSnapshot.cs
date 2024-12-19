@@ -126,7 +126,6 @@ namespace Persistence.Migrations.Store
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("PictureUrl")
-                        .IsRequired()
                         .ValueGeneratedOnAdd()
                         .HasColumnType("nvarchar(max)")
                         .HasDefaultValue("null");

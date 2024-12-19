@@ -58,7 +58,6 @@ D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Comm
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
-D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.dll
 D:\ASP .NET Route Course\Eng Mohamed Gamal\08 Asp.Net Web Apis\E-Commerce\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\refint\Persistence.dll
