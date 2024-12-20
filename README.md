@@ -1,6 +1,6 @@
 
 # Ecommerce Website - Talabat
-
+ 
 Welcome to **Ecommerce Talabat**, a dynamic and user-friendly ecommerce platform inspired by popular food delivery services like **Talabat**. This platform is designed to connect customers with their favorite restaurants, grocery stores, and service providers.
 
 ## Features
